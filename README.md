@@ -3,7 +3,7 @@
 Готовая статическая копия сайта: 62 страницы, без PHP и базы данных.
 Все ссылки относительные, поэтому сайт работает и в корне домена, и в подпапке.
 
-**Сайт:** https://anastyro-cell.github.io/biozone-vozduhoochiteli/
+**Сайт:** https://anastyro-cell.github.io/biozone-airpurifiers/
 
 ## Структура
 
